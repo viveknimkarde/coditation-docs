@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - coditation-docs/**
     
     
     # Review gh actions docs if you want to further define triggers, paths, etc
