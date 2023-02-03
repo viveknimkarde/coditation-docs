@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoditation_docs=self.webpackChunkcoditation_docs||[]).push([[403],{8161:o=>{o.exports=JSON.parse('{"label":"hello","permalink":"/coditation-docs/blog/tags/hello","allTagsPath":"/coditation-docs/blog/tags","count":2}')}}]);
