@@ -65,6 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/6128cb53ba31083c8a8d524e_logo 3.svg',
       navbar: {
+        style:'dark',
         title: 'Coditation Knowledge Hub',
         logo: {
           alt: 'Coditation',
